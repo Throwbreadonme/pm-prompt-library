@@ -6,7 +6,7 @@ Prompts for evaluating AI-generated content, classifying failure modes, and desi
 
 ## AI Output Quality Review
 
-**When to use:** When you need to evaluate a batch of AI-generated content and want a structured assessment rather than a gut reaction.
+**When to use:** When you need to evaluate a batch of AI-generated content and want a structured assessment.
 
 ```
 I need to evaluate the quality of the following AI-generated content.
